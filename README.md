@@ -2,7 +2,13 @@
 
 Super simple admin panel using [Tailwind CSS](https://tailwindcss.com).
 
-[Live Demo](https://tailwindadmin.netlify.app)
+#### Preview
+
+ - [Live Demo](https://themewagon.github.io/admin/)
+
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/free-tailwindcss-admin-dashboard-template-admin/)
+
 
 ## Note
 For Tailwind CSS version < 1.0
@@ -18,7 +24,7 @@ Then Open index.html.
 
 ![Image of Yaktocat](dist/images/login.png)
 
-### Please report any issue or suggestions in issue tracker, all issues or suggestions will be promptly addressed. We would love a pull request.
+### Please report any issues or suggestions in the issue tracker; all issues or suggestions will be promptly addressed. We would love a pull request.
 
 
 ## TODO:
